@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rocca-sh;Backend+Developer+%7C+Linux+Enthusiast;Building+systems+from+scratch;Spring+Boot+%7C+GNU%2FLinux+%7C+Low+Level" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=I'm+Rocca.sh;Backend+Dev+%7C+Linux+Enjoyner" alt="Typing SVG" />
 <br/>
 
 <p>
   <a href="https://github.com/Rocca-sh">
-    <img src="https://img.shields.io/github/followers/Rocca.sh?label=Followers&style=for-the-badge&color=39C5BB&labelColor=0D1117" />
+    <img src="https://img.shields.io/github/followers/Rocca-sh?label=Followers&style=for-the-badge&labelColor=39C5BB&color=FF007F" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Rocca.sh&style=for-the-badge&color=39C5BB&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rocca-sh&style=for-the-badge&labelColor=39C5BB&color=FF007F&label=Profile+Views" />
 </p>
 
 </div>
@@ -40,33 +39,29 @@ echo "Status: Online. Initializing $user environment..."
 
 ### Lenguajes
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-39C5BB?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-39C5BB?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-39C5BB?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-39C5BB?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cs,c,java" />
+  
+   <img src="https://cdn.simpleicons.org/gnubash/1D2D35" height="50"/>
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-39C5BB?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-39C5BB?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-39C5BB?style=for-the-badge&logo=hibernate&logoColor=white" />
+   <img src="https://cdn.simpleicons.org/spring" height="47"/>
+   <img src="https://cdn.simpleicons.org/hibernate" height="47"/>
+   <img src="https://cdn.simpleicons.org/postgresql" height="47"/>
 </p>
 
-### Servicios & Infra
+### Servicices & Cloud
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-39C5BB?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU_Linux-39C5BB?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-39C5BB?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-39C5BB?style=for-the-badge&logo=kubernetes&logoColor=white" />
+   <img src="https://cdn.simpleicons.org/cloudflare" height="47"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <img src="https://cdn.simpleicons.org/linux/1d2d35" height="47"/>
+  <img src="https://cdn.simpleicons.org/REDHAT" height="47"/>
 </p>
 
 ### Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-39C5BB?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-39C5BB?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-39C5BB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-39C5BB?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
@@ -76,11 +71,11 @@ echo "Status: Online. Initializing $user environment..."
 <div align="center">
 
 <a href="https://github.com/Rocca-sh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca.sh&repo=project1&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca-sh&repo=project1&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
 </a>
 
 <a href="https://github.com/Rocca-sh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca.sh&repo=project2&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rocca-sh&repo=project2&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=ff007f&text_color=ffffff" />
 </a>
 
 </div>
