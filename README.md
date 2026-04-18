@@ -41,7 +41,7 @@ echo "Status: Online. Initializing $user environment..."
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,c,java" />
   
-   <img src="https://cdn.simpleicons.org/gnubash" height="50"/>
+   <img src="https://cdn.simpleicons.org/gnubash/fffff" height="50"/>
 </p>
 
 ### Backend
@@ -55,7 +55,7 @@ echo "Status: Online. Initializing $user environment..."
 <p align="center">
    <img src="https://cdn.simpleicons.org/cloudflare" height="47"/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-  <img src="https://cdn.simpleicons.org/linux/1d2d35" height="47"/>
+  <img src="https://cdn.simpleicons.org/linux/fffff" height="47"/>
   <img src="https://cdn.simpleicons.org/REDHAT" height="47"/>
 </p>
 
