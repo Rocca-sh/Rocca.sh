@@ -1,15 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=39C5BB&center=true&vCenter=true&width=600&lines=I'm+Rocca.sh;Backend+Dev+%7C+Linux+Enjoyner" alt="Typing SVG" />
-<br/>
-
-<p>
-  <a href="https://github.com/Rocca-sh">
-    <img src="https://img.shields.io/github/followers/Rocca-sh?label=Followers&style=for-the-badge&labelColor=39C5BB&color=FF007F" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rocca-sh&style=for-the-badge&labelColor=39C5BB&color=FF007F&label=Profile+Views" />
-</p>
-
 </div>
 
 
