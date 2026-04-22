@@ -21,9 +21,9 @@ origin="Mexico"
 # Current Modules
 stack=("C#" "Java" "C" "Bash")
 executing=(
-  "Spring Boot Blog Platform"
+  "Spring Boot screens manager"
   "DTRL - GNU/Linux structured community"
-  "Experimental Game Cards"
+  "Move U"
 )
 
 echo "Status: Online. Initializing $user environment..."
